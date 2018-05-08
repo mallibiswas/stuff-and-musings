@@ -1,0 +1,16 @@
+{
+"sourceDBparams":{"server":"hoa+GbJIDAGJLRkfjnhl6Cn9dr/Ya6KFGNvyxsKQvA4=", 
+			"user":"+hFyGuNqZyHh6IdMjmjKdg==",
+            		"password":"oq58akdD++gMNbmc18R9RA==",
+			"database":"Igq/LU5jfCp8RxH529RHLQ=="		
+			},
+"targetDBparams":{"server":"mnlmtiEiCvOhKoL4c8kXJUgldrNWlmApsHSJIB5CoodZZmgPFwvZpB3wOWYCrfUR",
+			"user":"Gjguj9ai+marbCURG40fXw==",
+            		"password":"pIgdWe5bJ/RGjr8rfvUlSQ==",
+			"database":"G1LGpPA2qi9l+z74e12Uuw=="
+			},
+"dataDirectory":"/home/mallinath.biswas/scripts/prod/ETL/",
+"setupFileShare":"/home/mallinath.biswas/Share/",
+"dictFile":"params.json"
+}							   
+
